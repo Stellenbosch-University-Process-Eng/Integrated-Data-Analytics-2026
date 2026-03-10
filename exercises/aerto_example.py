@@ -7,6 +7,7 @@ Changes relative to the previous version:
 - Optimization logic is unchanged.
 
 Provided by Mehmet Mercangoz (Imperial College London)
+m.mercangoz@imperial.ac.uk
 
 """
 
